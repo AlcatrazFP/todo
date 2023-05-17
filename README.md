@@ -20,7 +20,9 @@ npm start
 
     
 ## Components Structure
-[![Screenshot-2023-05-17-212726.png](https://i.postimg.cc/WtRGwNt2/Screenshot-2023-05-17-212726.png)](https://postimg.cc/MfDfW8y4)
+
+[![Component Relation](https://i.postimg.cc/WtRGwNt2/Screenshot-2023-05-17-212726.png)](https://postimg.cc/MfDfW8y4)
+
 ## Screenshots
 
 [![App Screenshots](https://i.postimg.cc/vHjjCfxB/Screenshot-2023-05-17-21223542.png)](https://postimg.cc/4m6B9K5k)
