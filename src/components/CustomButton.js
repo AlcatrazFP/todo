@@ -1,11 +1,11 @@
 import React from 'react'
 
-export const CustomButton = ({handletodo}) => {
+export const Big = ({handletodo}) => {
   return (
     <button className=' bg-green-500 p-1 rounded-md' onClick={handletodo}>Add Todo</button>
   )
 }
-export const CustomButtonSM = (props) => {
+export const Small = (props) => {
   // console.log(props.deletetodos)
   // console.log(deletodos)
   const index = props.index

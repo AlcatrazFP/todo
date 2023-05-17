@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import { useState } from 'react';
 import { TodoRow } from './components/TodoRow';
-import { CustomButton } from './components/CustomButton';
+import { Big,Small } from './components/CustomButton';
 
 function App() {
   const [todos,setTodos] = useState('')
@@ -38,7 +38,7 @@ function App() {
       </div>
     <div className='input p-2 border-t-2 border-slate-200'>
         <input className='bg-slate-300 mr-2 rounded-sm p-1' name='todos' value={todos} type='text' placeholder='Add Task here...' onChange={handlechange}></input>
-        <CustomButton handletodo={handletodo}  />
+        <Big handletodo={handletodo}  />
         {/* <button oncl >submit</button> */}
       </div>
     </div>
