@@ -20,12 +20,10 @@ npm start
 
     
 ## Components Structure
-
-![App Screenshot](https://drive.google.com/file/d/1t3nnBNBws_42i3A0cv1k5iBGXJdVLL4-/view?usp=sharing)
-
+[![Screenshot-2023-05-17-212726.png](https://i.postimg.cc/WtRGwNt2/Screenshot-2023-05-17-212726.png)](https://postimg.cc/MfDfW8y4)
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/18ivXUIK_1puDYu6jjRs5Xyn_HY70gfzD/view?usp=sharing)
+[![App Screenshots](https://i.postimg.cc/vHjjCfxB/Screenshot-2023-05-17-21223542.png)](https://postimg.cc/4m6B9K5k)
 
 
 
